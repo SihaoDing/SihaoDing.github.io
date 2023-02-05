@@ -77,8 +77,8 @@ body {
   background-image: url("https://github.com/SihaoDing/SihaoDing.github.io/blob/main/Resume/profile.jpeg");
 /*   background-image: src="./Resume/profile.jpg" style="width:105px"; */
   background-repeat: no-repeat;
-  background-size: 320px;
-  background-position: right bottom;
+  background-size: 100px;
+  background-position: left bottom;
 
 }
 
