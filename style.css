@@ -74,7 +74,7 @@ body {
   width: 960px; 
 
   /*background-image: url("http://cdn.chongminggao.top/background/profile_white.jpg");*/
-  background-image: url("http://cdn.chongminggao.top/photo/profile_flip.jpg");
+  background-image: src="./Resume/profile.jpg" style="width:105px";
   background-repeat: no-repeat;
   background-size: 320px;
   background-position: right bottom;
@@ -125,7 +125,7 @@ body {
 
 .home-page {
   /*background-image: url("http://cdn.chongminggao.top/background/photo_1937x1453.jpg");*/
-  background-image: url("http://cdn.chongminggao.top/photo/background_shallow.jpg");
+/*  background-image: url("http://cdn.chongminggao.top/photo/background_shallow.jpg");*/
   background-position: 0px -60px; 
   background-size: cover;
   height: 520px;
@@ -216,11 +216,11 @@ h1 span {
 }
 
 .experiences .education .des {
-  width: 580px;
+  width: 850px;
 }
 
 .experiences .internship .des {
-  width: 580px;
+  width: 850px;
 }
 
 .experiences .des {
@@ -348,18 +348,20 @@ paper .pub_highlight {
 
 .award table {
     /*position: absolute;*/
-    left: 30px;
+    left: 15px;
     top: 30px;
     margin-bottom: 15px;
-    width:560px;
+    width:800px;
 }
 .award table td{
-    padding-left: 20px;
+    padding-left: 80px;
     padding-bottom: 8px;
     font-weight: 300;
-    vertical-align: top;
     font-size: 17px;
+    text-align: left;
 }
+
+
 
 .award tr:hover{
   transform: translate(0px, -2px);
