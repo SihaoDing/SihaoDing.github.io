@@ -127,6 +127,7 @@ body {
 .home-page {
   /*background-image: url("http://cdn.chongminggao.top/background/photo_1937x1453.jpg");*/
 /*  background-image: url("http://cdn.chongminggao.top/photo/background_shallow.jpg");*/
+  background-image: url("./Resume/profile.jpg");
   background-position: 0px -60px; 
   background-size: cover;
   height: 520px;
