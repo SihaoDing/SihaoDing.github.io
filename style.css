@@ -183,8 +183,8 @@ h1 span {
 .resume {
     position: absolute;
     right: 40px;
-/*     bottom: -30px; */
     bottom: 0px;
+/*     bottom: -30px; */
     color: #555;
     font-family: 'Vollkorn', serif;
     /*font-style: italic;*/
