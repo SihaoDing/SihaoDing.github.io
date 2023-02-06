@@ -73,12 +73,10 @@ body {
   position: relative;
   width: 960px; 
 
-  /*background-image: url("http://cdn.chongminggao.top/background/profile_white.jpg");*/
   background-image: url("https://raw.githubusercontent.com/SihaoDing/SihaoDing.github.io/main/Resume/profile.jpeg");
-/*   background-image: src="./Resume/profile.jpg" style="width:105px"; */
   background-repeat: no-repeat;
   background-size: 931px;
-  background-position: left bottom;
+  background-position: left up;
 
 }
 
