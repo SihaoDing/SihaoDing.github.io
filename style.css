@@ -77,7 +77,7 @@ body {
   background-image: url("https://raw.githubusercontent.com/SihaoDing/SihaoDing.github.io/main/Resume/profile.jpeg");
 /*   background-image: src="./Resume/profile.jpg" style="width:105px"; */
   background-repeat: no-repeat;
-  background-size: 100px;
+  background-size: 931px;
   background-position: left bottom;
 
 }
@@ -126,7 +126,7 @@ body {
 
 .home-page {
   /*background-image: url("http://cdn.chongminggao.top/background/photo_1937x1453.jpg");*/
-/*  background-image: url("http://cdn.chongminggao.top/photo/background_shallow.jpg");*/
+/*  background-image: url("http://cdn.chongminggao.top/photo/background_shallow.jpg");获奖那栏的背景*/
   background-image: url("./Resume/profile.jpg");
   background-position: 0px -60px; 
   background-size: cover;
